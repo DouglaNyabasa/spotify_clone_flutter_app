@@ -165,23 +165,6 @@
                     }
                 },
                 {
-                    "source": "/home/modestnerds/StudioProjects/spotify_clone_application/build/app/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,137,241,350,470,579",
-                        "endColumns": "81,103,108,119,108,77",
-                        "endOffsets": "132,236,345,465,574,652"
-                    },
-                    "to": {
-                        "startLines": "207,208,209,210,211,212",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "12787,12869,12973,13082,13202,13311",
-                        "endColumns": "81,103,108,119,108,77",
-                        "endOffsets": "12864,12968,13077,13197,13306,13384"
-                    }
-                },
-                {
                     "source": "/home/modestnerds/.gradle/caches/transforms-3/46a58b9564182f6cf745640657bf0d24/transformed/lifecycle-viewmodel-2.7.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -199,7 +182,7 @@
                     }
                 },
                 {
-                    "source": "/home/modestnerds/StudioProjects/spotify_clone_application/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/modestnerds/spotify_clone_flutter_app/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -285,6 +268,23 @@
                         "startOffsets": "11926,11996,12058,12123,12187,12264,12329,12419,12503",
                         "endColumns": "69,61,64,63,76,64,89,83,68",
                         "endOffsets": "11991,12053,12118,12182,12259,12324,12414,12498,12567"
+                    }
+                },
+                {
+                    "source": "/home/modestnerds/spotify_clone_flutter_app/build/app/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,137,241,350,470,579",
+                        "endColumns": "81,103,108,119,108,77",
+                        "endOffsets": "132,236,345,465,574,652"
+                    },
+                    "to": {
+                        "startLines": "207,208,209,210,211,212",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "12787,12869,12973,13082,13202,13311",
+                        "endColumns": "81,103,108,119,108,77",
+                        "endOffsets": "12864,12968,13077,13197,13306,13384"
                     }
                 },
                 {

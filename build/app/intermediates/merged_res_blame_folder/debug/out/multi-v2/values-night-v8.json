@@ -4,7 +4,7 @@
             "outputFile": "com.example.spotify_clone_application.app-mergeDebugResources-35:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/modestnerds/StudioProjects/spotify_clone_application/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/modestnerds/spotify_clone_flutter_app/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

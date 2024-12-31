@@ -1,0 +1,1 @@
+ /home/modestnerds/spotify_clone_flutter_app/.dart_tool/flutter_build/d84c0747697c0ee5d7d1b3b4f4be0391/native_assets.yaml: 

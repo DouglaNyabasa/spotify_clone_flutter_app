@@ -1,11 +1,11 @@
-#Mon Dec 23 19:58:31 CAT 2024
-base.0=/home/modestnerds/StudioProjects/spotify_clone_application/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/home/modestnerds/StudioProjects/spotify_clone_application/build/app/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
-base.2=/home/modestnerds/StudioProjects/spotify_clone_application/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.3=/home/modestnerds/StudioProjects/spotify_clone_application/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.4=/home/modestnerds/StudioProjects/spotify_clone_application/build/app/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
-base.5=/home/modestnerds/StudioProjects/spotify_clone_application/build/app/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.6=/home/modestnerds/StudioProjects/spotify_clone_application/build/app/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+#Tue Dec 31 14:21:59 CAT 2024
+base.0=/home/modestnerds/spotify_clone_flutter_app/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/modestnerds/spotify_clone_flutter_app/build/app/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
+base.2=/home/modestnerds/spotify_clone_flutter_app/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.3=/home/modestnerds/spotify_clone_flutter_app/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.4=/home/modestnerds/spotify_clone_flutter_app/build/app/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
+base.5=/home/modestnerds/spotify_clone_flutter_app/build/app/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.6=/home/modestnerds/spotify_clone_flutter_app/build/app/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=0/classes.dex
